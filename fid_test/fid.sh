@@ -1,0 +1,1 @@
+python fid_score_crop64x64.py --gpu 5 --batch-size=256 /path1   /path2
